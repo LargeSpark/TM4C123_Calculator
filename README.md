@@ -2,7 +2,7 @@
 Alexander Bolton  
 Thomas Preston
 
-**Project Outline**
+**Project Outline**  
 The purpose of this project was to interface a microcontroller, the Tiva TM4C123, with external hardware
 components. This consisted of a 16 x 2 Liquid Crystal Display (LCD) and a 4 x 4 keypad. Utilising this
 hardware, and the programming language ‘C’. The goal was to design and implement the software to act in
