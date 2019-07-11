@@ -1,0 +1,43 @@
+Dependencies for Project 'CalculatorProject', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Main.c)(0x5A2A90FA)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (LCD_Driver.h)(0x5A2B1E6A)
+I (PLL.h)(0x5A1B9808)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588BF3C4)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x588BF3C4)
+I (Keypad_Driver.h)(0x5A2A8FA5)
+I (Calculator.h)(0x5A2B169B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x588BF3C4)
+I (C:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x588BF3C4)
+F (.\LCD_Driver.c)(0x5A2B1FC1)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\lcd_driver.o --omf_browse .\objects\lcd_driver.crf --depend .\objects\lcd_driver.d)
+I (LCD_Driver.h)(0x5A2B1E6A)
+I (PLL.h)(0x5A1B9808)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588BF3C4)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x588BF3C4)
+I (C:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x588BF3C4)
+F (.\LCD_Driver.h)(0x5A2B1E6A)()
+F (.\Keypad_Driver.c)(0x5A2B1A6C)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\keypad_driver.o --omf_browse .\objects\keypad_driver.crf --depend .\objects\keypad_driver.d)
+I (Keypad_Driver.h)(0x5A2A8FA5)
+I (PLL.h)(0x5A1B9808)
+F (.\Keypad_Driver.h)(0x5A2A8FA5)()
+F (.\PLL.c)(0x5A1BB2CA)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\pll.o --omf_browse .\objects\pll.crf --depend .\objects\pll.d)
+I (PLL.h)(0x5A1B9808)
+F (.\PLL.h)(0x5A1B9808)()
+F (.\Calculator.c)(0x5A2B1856)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\calculator.o --omf_browse .\objects\calculator.crf --depend .\objects\calculator.d)
+I (Calculator.h)(0x5A2B169B)
+I (Keypad_Driver.h)(0x5A2A8FA5)
+I (PLL.h)(0x5A1B9808)
+I (LCD_Driver.h)(0x5A2B1E6A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588BF3C4)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x588BF3C4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x588BF3C4)
+I (C:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x588BF3C4)
+F (.\Calculator.h)(0x5A2B169B)()
+F (RTE\Device\TM4C123GH6PM\startup_TM4C123.s)(0x51B6F216)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup_tm4c123.lst --xref -o .\objects\startup_tm4c123.o --depend .\objects\startup_tm4c123.d)
+F (RTE\Device\TM4C123GH6PM\system_TM4C123.c)(0x550A73EA)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="524" -D_RTE_ -DTM4C123GH6PM-o .\objects\system_tm4c123.o --omf_browse .\objects\system_tm4c123.crf --depend .\objects\system_tm4c123.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BF3C4)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530F0F16)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x550FFE4C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm4.h)(0x5898BA0A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898BA0A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898BA0A)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B70026)
