@@ -1,4 +1,4 @@
-#TM4C123_Calculator  
+# TM4C123 Launchpad Calculator - University of Leeds - ELEC3662
 Alexander Bolton  
 Thomas Preston
 
